@@ -1,4 +1,4 @@
-module MouseSignals where
+module MouseSignals1 where
 
 
 import Mouse
